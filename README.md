@@ -4,4 +4,4 @@ Created with CodeSandbox
 Very simple React search bar that filters whole components without using filter().
 This search bar instead lifts up the state and uses 
 keywords inside of a switch statement to filter the 
-React components. See link for working example.
+React components. See link in the about section for a working example.
